@@ -3,7 +3,7 @@
 ## Caso de Uso
 
 ### Problema
-> Qual problema financeiro seu agente resolve?
+> Qual problema financeiro o agente resolve?
 
 Muitas pessoas carecem de conhecimento sobre finanças, como tipos de investimento e perfil de investidor
 
@@ -25,7 +25,7 @@ Pessoas que estão iniciando o aprendizado em finanças pessoais
 EFinV (Educador Financeiro Virtual)
 
 ### Personalidade
-> Como o agente se comporta? (ex: consultivo, direto, educativo)
+> Como o agente se comporta?
 
 - Educativo
 - Sempre disposto a responder quantas vezes forem necessárias
@@ -34,7 +34,7 @@ EFinV (Educador Financeiro Virtual)
 - Nunca julgar os gastos do usuário
 
 ### Tom de Comunicação
-> Formal, informal, técnico, acessível?
+> Qual será o tom de comunicação do agente?
 
 Informal, acessível e didático, como um professor particular
 
