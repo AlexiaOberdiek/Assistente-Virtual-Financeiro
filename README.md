@@ -9,12 +9,9 @@ Os assistentes virtuais no setor financeiro estão evoluindo de simples chatbots
 - **Cocriar soluções** financeiras de forma consultiva
 - **Garantir segurança** e confiabilidade nas respostas (anti-alucinação)
 
-> [!TIP]
-> Na pasta [`examples/`](./examples/) você encontra referências de implementação para cada etapa deste desafio.
-
 ---
 
-## O Que Você Deve Entregar
+## Etapas
 
 ### 1. Documentação do Agente
 
@@ -128,12 +125,7 @@ Todas as ferramentas abaixo possuem versões gratuitas:
 │   ├── 04-metricas.md                # Avaliação e métricas
 │   └── 05-pitch.md                   # Roteiro do pitch
 │
-├── 📁 src/                           # Código da aplicação
-│   └── app.py                        # (exemplo de estrutura)
-│
-├── 📁 assets/                        # Imagens e diagramas
-│   └── ...
-│
-└── 📁 examples/                      # Referências e exemplos
-    └── README.md
+└── 📁 src/                           # Código da aplicação
+    └── app.py                        # (exemplo de estrutura)
+
 ```
